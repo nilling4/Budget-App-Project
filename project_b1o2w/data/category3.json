@@ -1,0 +1,10 @@
+{
+    "totalSpent": 2,
+    "listPurchases": [{
+        "cost": 2,
+        "name": "bus"
+    }],
+    "name": "transport",
+    "percent": 0,
+    "remainingMoney": -2
+}

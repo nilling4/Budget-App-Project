@@ -1,0 +1,16 @@
+{
+  "totalSpent": 0,
+  "listPurchases": [
+    {
+      "cost": 5,
+      "name": "burger"
+    },
+    {
+      "cost": 3,
+      "name": "pizza"
+    }
+  ],
+  "name": "My Category",
+  "percent": 0,
+  "remainingMoney": 0
+}

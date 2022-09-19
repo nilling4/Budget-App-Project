@@ -1,0 +1,19 @@
+{
+  "ultimateSpent": 0,
+  "categoryList": [
+    {
+      "totalSpent": 0,
+      "listPurchases": [],
+      "name": "food",
+      "percent": 0,
+      "remainingMoney": 0
+    },
+    {
+      "totalSpent": 0,
+      "listPurchases": [],
+      "name": "transport",
+      "percent": 0,
+      "remainingMoney": 0
+    }
+  ]
+}

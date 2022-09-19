@@ -1,0 +1,16 @@
+{
+    "totalSpent": 8,
+    "listPurchases": [
+        {
+            "cost": 5,
+            "name": "Burgegr"
+        },
+        {
+            "cost": 3,
+            "name": "pizza"
+        }
+    ],
+    "name": "food",
+    "percent": 0,
+    "remainingMoney": -8
+}

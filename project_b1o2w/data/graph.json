@@ -1,0 +1,38 @@
+{
+    "ultimateSpent": 10,
+    "categoryList": [
+        {
+            "totalSpent": 8,
+            "listPurchases": [
+                {
+                    "cost": 5,
+                    "name": "Burgegr"
+                },
+                {
+                    "cost": 3,
+                    "name": "pizza"
+                }
+            ],
+            "name": "food",
+            "percent": 0,
+            "remainingMoney": -8
+        },
+        {
+            "totalSpent": 0,
+            "listPurchases": [],
+            "name": "fun",
+            "percent": 0,
+            "remainingMoney": 0
+        },
+        {
+            "totalSpent": 2,
+            "listPurchases": [{
+                "cost": 2,
+                "name": "bus"
+            }],
+            "name": "transport",
+            "percent": 0,
+            "remainingMoney": -2
+        }
+    ]
+}
